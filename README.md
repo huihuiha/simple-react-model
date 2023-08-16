@@ -1,2 +1,2 @@
 # SIMPLE-REACT-MODEL
-简易版的项目
+实现简易版的React项目
